@@ -9,5 +9,4 @@ Hasil visualisasi Confusion Matrix menggunakan heatmap dari Seaborn. Dibuat perb
 Hasil yang Ditampilkan: Masing-masing model memberikan nilai score baik untuk training maupun testing set. Akurasi tiap model ditampilkan untuk mengetahui mana yang paling unggul. Ada upaya membandingkan beberapa algoritma dalam hal akurasi
 
 # Dataset
-# https://www.kaggle.com/c/titanic/data
-Dataset di ambil dai kaggle memiliki 12 kolom yang masing-masing diberi nama sebagai header. Header kolom ini berfungsi sebagai label untuk setiap jenis data yang terdapat dalam kolom tersebut.
+## https://www.kaggle.com/c/titanic/data
